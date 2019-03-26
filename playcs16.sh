@@ -21,6 +21,6 @@ if ! command -v unzip; then
 	sudo apt install unzip -y
 fi
 
-unzip "$zipped_file"
+unzip "$zipped_file" -d "$HOME/Downloads/"
 wine "$file"
 exit
