@@ -1,0 +1,23 @@
+{
+  "name": "cs16",
+  "version": "0.1.0",
+  "description": "Play Counter Strike 1.6 easily on ubuntu",
+  "main": "index.js",
+  "keywords": [
+    "cs16",
+    "Counter Strike 1.6"
+  ],
+  "author": "Pablo Dinella",
+  "license": "Unlicense",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloDinella/cs16.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PabloDinella/cs16/issues"
+  },
+  "homepage": "https://github.com/PabloDinella/cs16#readme"
+}
