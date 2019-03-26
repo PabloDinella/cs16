@@ -1,4 +1,5 @@
 #!/usr/bin/env node
 
 const shell = require('shelljs');
-shell.exec('./playcs16.sh');
+const path = require('path');
+shell.exec(path.resolve('playcs16.sh'));

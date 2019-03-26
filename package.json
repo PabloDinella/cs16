@@ -1,6 +1,6 @@
 {
   "name": "cs16",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Play Counter Strike 1.6 easily on ubuntu",
   "main": "index.js",
   "bin": {
