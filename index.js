@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // thanks https://stackoverflow.com/a/20643568/2350685
 const { exec } = require('child_process');
 exec('./playcs16.sh', (err, stdout, stderr) => {
